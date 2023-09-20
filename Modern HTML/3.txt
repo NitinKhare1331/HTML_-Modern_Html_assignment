@@ -1,0 +1,8 @@
+Accessibility in HTML with context to web development refers to the designing and coding of web pages which can be easily understood , accessed by the people with abilities or disabilities.
+
+It is essential to create accessible websites as it allows people with disabilities to access the same services and information which is available for all. It improves usability of the website.
+
+It benefits different user groups as:-
+    Screen reader is a software which reads out the content of the web page which is helpful for visually impaired people.
+
+    Voice recognition software is used to navigate between the pages or throughout the page by using voice commands which is helpful for the people who are handicapped or they can not use mouse and keyboard.

@@ -1,0 +1,12 @@
+Various features of HTML 5 are:
+      It improved multimedia support using media tags like <audio> , <Video> .
+
+      It added new structural elements such as <header> , <nav> , <footer> , etc.
+
+      It introduced progress tag which is used to check the progress of the task while execution.
+
+      It introduced email type for input tag.
+
+      Geo location API was introduced so that user can access to location based services.
+
+      It improved accessibility.

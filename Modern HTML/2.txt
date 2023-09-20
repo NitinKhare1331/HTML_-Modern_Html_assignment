@@ -1,0 +1,18 @@
+HTML entities are reserved character used in HTML document. Basically they are not seen on keyboard. It provides a large number characters to add to HTML document .
+
+5 MOST COMMONLY USED HTML ENTITIES ARE:-
+
+Entity name        Description       Result         
+
+    &lt;          Less than sign        <         
+
+    &gt;         Greater than Sign      >         
+
+   &cent;           Cent sign           ¢     
+
+   &copy;           Copyright           ©    
+
+   &euro;           Euro sign           €         
+ 
+
+

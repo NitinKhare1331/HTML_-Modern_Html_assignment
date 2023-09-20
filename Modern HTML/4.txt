@@ -1,0 +1,6 @@
+3 ways which helps us to improve the accessibility of HTML are:-
+   Use ARIA, which stands for Accessible Rich Internet Applications. ARIA defines markup extensions that can be added to elements to give screen readers more information.
+
+   Use Semantic Tags
+
+   Use descriptive link text. Links can help or harm accessibility depending on how they are used.
